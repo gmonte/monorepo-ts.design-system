@@ -1,6 +1,6 @@
 {
   "name": "@design-system/web",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.0",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -29,8 +29,8 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@design-system/eslint-config": "^0.0.0",
-    "@design-system/jest-config": "^0.0.0",
-    "@design-system/ts-config": "^0.0.0"
+    "@design-system/eslint-config": "^0.1.0-alpha.0",
+    "@design-system/jest-config": "^0.1.0-alpha.0",
+    "@design-system/ts-config": "^0.1.0-alpha.0"
   }
 }
