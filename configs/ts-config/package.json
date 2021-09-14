@@ -1,0 +1,12 @@
+{
+  "name": "@design-system/ts-config",
+  "version": "0.0.0",
+  "main": "tsconfig.json",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "unpub:local": "npm unpublish @design-system/ts-config --force --registry http://localhost:4873"
+  }
+}
